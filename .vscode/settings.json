@@ -4,5 +4,12 @@
     },
     "emmet.excludeLanguages": [
         "markdown"
+    ],
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#a32c23",
+        "titleBar.inactiveBackground": "#a32c23"
+    },
+    "json.schemas": [
+    
     ]
 }
